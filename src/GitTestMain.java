@@ -14,6 +14,7 @@ public class GitTestMain {
 		System.out.println("Master final");
 
 		System.out.println("hotfix final");
+		System.out.println("github 접속");
 
 	}
 
