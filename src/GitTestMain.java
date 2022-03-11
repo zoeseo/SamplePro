@@ -15,6 +15,7 @@ public class GitTestMain {
 
 		System.out.println("hotfix final");
 		System.out.println("github 접속");
+		System.out.println("github에서 수정");
 
 	}
 
