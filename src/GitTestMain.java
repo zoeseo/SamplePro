@@ -20,6 +20,7 @@ public class GitTestMain {
 		
 		System.out.println("hotfix remote push");
 		System.out.println("hotfix remote merge");
+		System.out.println("home working");
 
 	}
 
